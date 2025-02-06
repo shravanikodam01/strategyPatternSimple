@@ -9,5 +9,5 @@ Uppercase
 Lowercase
 
 Deployed in Render 
-https://strategypatternsimple.onrender.com/format
+POST call - https://strategypatternsimple.onrender.com/format
 pass the json in body {text:'Your String',method:'lowercase'}

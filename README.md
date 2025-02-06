@@ -7,5 +7,7 @@ Use this design pattern when
 This project allows users to format text dynamically using different strategies:
 Uppercase
 Lowercase
-Title Case
-Reverse String
+
+Deployed in Render 
+https://strategypatternsimple.onrender.com/format
+pass the json in body {text:'Your String',method:'lowercase'}
